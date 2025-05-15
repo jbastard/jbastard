@@ -13,7 +13,7 @@
 
 | Project                        | Score           | Project                         | Score           |
 |-------------------------------|------------------|----------------------------------|------------------|
-| [LIBFT](https://github.com/guphilip/libft)                | ✅ 100 / 100         | [PUSH_SWAP](https://github.com/guphilip/push_swap)           | ✅ 100 / 100         |
+| [![Libft](https://img.shields.io/badge/Libft-100%2F100-brightgreen?style=for-the-badge)](https://github.com/guphilip/libft)                | ✅ 100 / 100         | [PUSH_SWAP](https://github.com/guphilip/push_swap)           | ✅ 100 / 100         |
 | [FT_PRINTF](https://github.com/guphilip/ft_printf)         | ✅ 100 / 100         | 🌟🌟🌟 [SO_LONG](https://github.com/guphilip/so_long)         | ✅ 125 / 100         |
 | [BORN2BEROOT](https://github.com/guphilip/born2beroot)     | ✅ 120 / 100         | 🌟🌟 [PHILOSOPHERS](https://github.com/guphilip/philosophers) | ✅ 100 / 100         |
 | 🌟🌟 [GET_NEXT_LINE](https://github.com/guphilip/get_next_line) | ✅ 125 / 100         | [MINISHELL](https://github.com/guphilip/minishell)           | ✅ 101 / 100         |
