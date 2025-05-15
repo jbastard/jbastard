@@ -10,9 +10,7 @@
 
 **Completed 42 Projects 🚀**  
 *Click on the badges to view the projects 😉*
-
-| Project                        |
-|-------------------------------|
+1
 | [![Libft](https://img.shields.io/badge/Libft-100%2F100-brightgreen?style=for-the-badge)](https://github.com/jbastard/42-Libft) |
 | [[FT_PRINTF]()] |
 | [[GET_NEXT_LINE]()] |
