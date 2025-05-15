@@ -8,6 +8,8 @@
 - Langages : `C`, `Languages systeme: Bash`
 - Outils : `Git`, `Clion`, `Linux`, `Windows`
 
+---
+
 **Completed 42 Projects 🚀**  
 *Click on the badges to view the projects 😉*
 
