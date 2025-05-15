@@ -11,15 +11,18 @@
 **Completed 42 Projects 🚀**  
 *Click on the badges to view the projects 😉*
 
-[![Libft](https://img.shields.io/badge/Libft-125%2F100-brightgreen?style=for-the-badge)](https://github.com/jbastard/42-Libft)  
-[![FT_PRINTF](https://img.shields.io/badge/FT_Printf-100%2F100-brightgreen?style=for-the-badge)](https://github.com/jbastard/42-Printf)  
-[![GET_NEXT_LINE](https://img.shields.io/badge/Get_Next_line-100%2F100-brightgreen?style=for-the-badge)](https://github.com/jbastard/42-Get_next_line)  
-[![BORN2BEROOT](https://img.shields.io/badge/Born_To_Be_Root-125%2F100-brightgreen?style=for-the-badge)]()  
-[![PIPEX](https://img.shields.io/badge/Pipex-100%2F100-brightgreen?style=for-the-badge)](https://github.com/jbastard/42-Pipex)  
-[![PUSH_SWAP](https://img.shields.io/badge/Push_Swap-93%2F100-brightgreen?style=for-the-badge)](https://github.com/jbastard/42-Push_swap)  
-[![SO_LONG](https://img.shields.io/badge/So_long-125%2F100-brightgreen?style=for-the-badge)](https://github.com/jbastard/42-So_long)  
-[![PHILOSOPHERS](https://img.shields.io/badge/Philosophers-100%2F100-brightgreen?style=for-the-badge)](https://github.com/jbastard/42-Philosophers)  
-[![MINISHELL](https://img.shields.io/badge/Minishell-99%2F100-brightgreen?style=for-the-badge)](https://github.com/jbastard/42-Minishell)  
+| Project         | Completion Badge                                                                 |
+|----------------|------------------------------------------------------------------------------------|
+| LIBFT          | ![LIBFT](https://img.shields.io/badge/125%25%20%2F%20100-LIBFT-000000?labelColor=44cc11&style=for-the-badge&logo=42) |
+| FT_PRINTF      | ![FT_PRINTF](https://img.shields.io/badge/100%25%20%2F%20100-FT__PRINTF-000000?labelColor=44cc11&style=for-the-badge&logo=42) |
+| GET_NEXT_LINE  | ![GET_NEXT_LINE](https://img.shields.io/badge/100%25%20%2F%20100-GET__NEXT__LINE-000000?labelColor=44cc11&style=for-the-badge&logo=42) |
+| BORN2BEROOT    | ![BORN2BEROOT](https://img.shields.io/badge/125%25%20%2F%20100-BORN2BEROOT-000000?labelColor=44cc11&style=for-the-badge&logo=42) |
+| PIPEX          | ![PIPEX](https://img.shields.io/badge/100%25%20%2F%20100-PIPEX-000000?labelColor=44cc11&style=for-the-badge&logo=42) |
+| PUSH_SWAP      | ![PUSH_SWAP](https://img.shields.io/badge/93%25%20%2F%20100-PUSH__SWAP-000000?labelColor=44cc11&style=for-the-badge&logo=42) |
+| SO_LONG        | ![SO_LONG](https://img.shields.io/badge/100%25%20%2F%20100-SO__LONG-000000?labelColor=44cc11&style=for-the-badge&logo=42) |
+| PHILOSOPHERS   | ![PHILOSOPHERS](https://img.shields.io/badge/100%25%20%2F%20100-PHILOSOPHERS-000000?labelColor=44cc11&style=for-the-badge&logo=42) |
+| MINISHELL      | ![MINISHELL](https://img.shields.io/badge/99%25%20%2F%20100-MINISHELL-000000?labelColor=44cc11&style=for-the-badge&logo=42) |
+
 
 ## 📫 Me contacter
 - Email : jonas76bastard@gmail.com
