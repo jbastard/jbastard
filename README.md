@@ -14,14 +14,14 @@
 | Project                        |
 |-------------------------------|
 | [![Libft](https://img.shields.io/badge/Libft-100%2F100-brightgreen?style=for-the-badge)](https://github.com/jbastard/42-Libft) |
-| [FT_PRINTF]() |
-| [GET_NEXT_LINE]() |
-| [BORN2BEROOT]() |
-| [PIPEX]() |
-| [PUSH_SWAP]() |
-| [SO_LONG]() |
-| [PHILOSOPHERS]() |
-| [MINISHELL]() |
+| [[FT_PRINTF]()] |
+| [[GET_NEXT_LINE]()] |
+| [[BORN2BEROOT]()] |
+| [[PIPEX]()] |
+| [[PUSH_SWAP]()] |
+| [[SO_LONG]()] |
+| [[PHILOSOPHERS]()] |
+| [[MINISHELL]()] |
 
 ## 📫 Me contacter
 - Email : jonas76bastard@gmail.com
