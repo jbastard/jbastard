@@ -1,7 +1,6 @@
 # 👋 Salut, moi c’est Jonas
 
-🎓 Étudiant en développement à l'école 42  
-💻 Passionné par le C, les systèmes Unix et le bas niveau  
+🎓 Étudiant à l'école 42
 🚀 Je travaille actuellement sur [42-Modules-CPP](https://github.com/jbastard/42-CPP)
 
 ## 🔧 Compétences
