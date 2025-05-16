@@ -19,8 +19,8 @@
 | [![PIPEX](https://img.shields.io/badge/100%25%20%2F%20100-PIPEX-000000?labelColor=44cc11&style=for-the-badge&logo=42)](https://github.com/jbastard/42-Pipex) |
 | [![PUSH_SWAP](https://img.shields.io/badge/%20%20%2093%25%20%2F%20100-PUSH__SWAP-000000?labelColor=44cc11&style=for-the-badge&logo=42)](https://github.com/jbastard/42-Push_swap) |
 | [![SO_LONG](https://img.shields.io/badge/100%25%20%2F%20100-SO__LONG-000000?labelColor=44cc11&style=for-the-badge&logo=42)](https://github.com/jbastard/42-So_long) |
-| [![PHILOSOPHERS](https://img.shields.io/badge/100%25%20%2F%20100-PHILOSOPHERS-000000?labelColor=44cc11&style=for-the-badge&logo=42)](42-Philosophers) |
-| [![MINISHELL](https://img.shields.io/badge/99%25%20%2F%20100-MINISHELL-000000?labelColor=44cc11&style=for-the-badge&logo=42)](42-Minishell) |
+| [![PHILOSOPHERS](https://img.shields.io/badge/100%25%20%2F%20100-PHILOSOPHERS-000000?labelColor=44cc11&style=for-the-badge&logo=42)](https://github.com/jbastard/42-Philosophers) |
+| [![MINISHELL](https://img.shields.io/badge/99%25%20%2F%20100-MINISHELL-000000?labelColor=44cc11&style=for-the-badge&logo=42)](https://github.com/jbastard/42-Minishell) |
 
 
 ## 📫 Me contacter
