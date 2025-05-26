@@ -3,6 +3,8 @@
 🎓 Étudiant à l'école 42
 🚀 Je travaille actuellement sur [42-Modules-CPP](https://github.com/jbastard/42-CPP)
 
+[![jbastard's 42 stats](https://badge.mediaplus.ma/kettlebells/jbastard?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
 ## 🔧 Compétences
 - Langages : `C`, `Languages systeme: Bash`
 - Outils : `Git`, `Clion`, `Linux`, `Windows`
