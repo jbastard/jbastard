@@ -23,7 +23,7 @@
 | [![SO_LONG](https://img.shields.io/badge/100%25%20%2F%20100-SO__LONG-000000?labelColor=44cc11&style=for-the-badge&logo=42)](https://github.com/jbastard/42-So_long) |
 | [![PHILOSOPHERS](https://img.shields.io/badge/100%25%20%2F%20100-PHILOSOPHERS-000000?labelColor=44cc11&style=for-the-badge&logo=42)](https://github.com/jbastard/42-Philosophers) |
 | [![MINISHELL](https://img.shields.io/badge/99%25%20%2F%20100-MINISHELL-000000?labelColor=44cc11&style=for-the-badge&logo=42)](https://github.com/jbastard/42-Minishell) |
-| [![CUB3D](https://img.shields.io/badge/99%25%20%2F%20100-CUB3D-000000?labelColor=44cc11&style=for-the-badge&logo=42)](https://github.com/LaGuibole/cub3d) |
+| [![CUB3D](https://img.shields.io/badge/110%25%20%2F%20100-CUB3D-000000?labelColor=44cc11&style=for-the-badge&logo=42)](https://github.com/LaGuibole/cub3d) |
 
 
 ## 📫 Me contacter
