@@ -14,8 +14,8 @@
 
 | Completion Badge                                                                 |
 ------------------------------------------------------------------------------------|
-| [![LIBFT](https://img.shields.io/badge/125%25%20%2F%20100-LIBFT-000000?labelColor=44cc11&style=for-the-badge&logo=42)](https://github.com/jbastard/42-Libft) |
-| [![FT_PRINTF](https://img.shields.io/badge/100%-FT__PRINTF-000000?labelColor=44cc11&style=for-the-badge&logo=42)](https://github.com/jbastard/42-Printf) |
+| [![LIBFT](https://img.shields.io/badge/125%25%-LIBFT-000000?labelColor=44cc11&style=for-the-badge&logo=42)](https://github.com/jbastard/42-Libft) |
+| [![FT_PRINTF](https://img.shields.io/badge/100%25%20%2F%20100-FT__PRINTF-000000?labelColor=44cc11&style=for-the-badge&logo=42)](https://github.com/jbastard/42-Printf) |
 | [![GET_NEXT_LINE](https://img.shields.io/badge/100%25%20%2F%20100-GET__NEXT__LINE-000000?labelColor=44cc11&style=for-the-badge&logo=42)](https://github.com/jbastard/42-Get_next_line) |
 | [![BORN2BEROOT](https://img.shields.io/badge/125%25%20%2F%20100-BORN2BEROOT-000000?labelColor=44cc11&style=for-the-badge&logo=42)](https://github.com/jbastard) |
 | [![PIPEX](https://img.shields.io/badge/100%25%20%2F%20100-PIPEX-000000?labelColor=44cc11&style=for-the-badge&logo=42)](https://github.com/jbastard/42-Pipex) |
